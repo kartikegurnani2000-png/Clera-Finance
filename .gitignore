@@ -1,0 +1,13 @@
+# Environments
+venv/
+env/
+
+# Data and Secrets
+*.csv
+*.db
+.env
+.streamlit/secrets.toml
+
+# Python caches
+__pycache__/
+*.pyc
